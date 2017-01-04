@@ -1,7 +1,7 @@
 ---
 applications:
 - name:    hello-node_sample111
-  host:    hello-node_sample1213456
+  host:    hello-node_sample121345678
   memory:  128M
   instances: 1
   random-route: true
