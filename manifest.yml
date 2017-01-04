@@ -1,0 +1,5 @@
+---
+applications:
+- name:    hello-node_sample111
+  host:    hello-node_sample111
+  memory:  128M
